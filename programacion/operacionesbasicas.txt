@@ -1,0 +1,10 @@
+Proceso operacionesbasicas
+	Escribir 'ingresa dos cantidades a operar'
+	Leer n1
+	Leer n2
+	suma <- n1+n2
+	resta <- n1-n2
+	multi <- n1*n2
+	div <- n1/n2
+	Escribir 'los totales de las operaciones son: ,Suma: ',suma,', Resta:',resta,' Multiplcacion: ',multi,' Division: ',div
+FinProceso
